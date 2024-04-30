@@ -6,9 +6,6 @@ namespace SelectionStatementExercise
     {
         static void Main(string[] args)
         {
-
-            // Assignment #1
-
             int favNumber = 13;
             int userInput = 0;
             Console.WriteLine("Hello! Can you guess my favorite number?");
